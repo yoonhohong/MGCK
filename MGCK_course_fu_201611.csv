@@ -1,0 +1,396 @@
+pt_serial_no,date_visits,type_visits,mgcs,mgfa
+1025,2014-03-20 00:00:00,scheduled fu (opd),0,I
+1026,2014-03-11 00:00:00,admission (NR),3,I
+1027,2014-04-01 00:00:00,scheduled fu (opd),,I
+1028,2014-03-11 00:00:00,scheduled fu (opd),1,I
+1032,2014-02-27 00:00:00,scheduled fu (opd),0,I
+1034,2014-03-27 00:00:00,scheduled fu (opd),0,I
+1037,2012-04-10 00:00:00,scheduled fu (opd),0,I
+1043,2014-03-25 00:00:00,scheduled fu (opd),0,I
+1046,2012-02-07 00:00:00,scheduled fu (opd),7,I
+1048,2014-04-10 00:00:00,scheduled fu (opd),,I
+1049,2014-03-20 00:00:00,scheduled fu (opd),0,IIa
+1050,2014-04-10 00:00:00,scheduled fu (opd),0,
+1051,2013-05-21 00:00:00,scheduled fu (opd),,IIa
+1126,2014-05-07 00:00:00,scheduled fu (opd),,I
+1127,2009-08-17 00:00:00,,,IIa
+1128,2011-06-15 00:00:00,,0,I
+1130,2013-12-05 00:00:00,scheduled fu (opd),0,I
+1131,2014-04-01 00:00:00,scheduled fu (opd),0,I
+1132,2014-05-15 00:00:00,scheduled fu (opd),0,I
+1133,2014-02-24 00:00:00,scheduled fu (opd),,I
+1134,2009-11-19 00:00:00,scheduled fu (opd),,I
+1135,2014-01-20 00:00:00,scheduled fu (opd),0,I
+1136,2012-03-15 00:00:00,scheduled fu (opd),,I
+1138,2014-04-28 00:00:00,scheduled fu (opd),0,I
+1141,2014-01-29 00:00:00,scheduled fu (opd),4,I
+1142,2010-07-05 00:00:00,scheduled fu (opd),,IIb
+1143,2014-07-07 00:00:00,scheduled fu (opd),,IIIa
+1144,2014-07-14 00:00:00,scheduled fu (opd),,I
+1145,2014-06-16 00:00:00,scheduled fu (opd),,IIIb
+1146,2010-10-11 00:00:00,scheduled fu (opd),,IIIb
+1147,2012-02-28 00:00:00,scheduled fu (opd),,I
+1148,2012-09-06 00:00:00,scheduled fu (opd),,I
+1149,2014-07-01 00:00:00,scheduled fu (opd),,IIa
+1150,2012-03-26 00:00:00,scheduled fu (opd),0,I
+1151,2014-06-30 00:00:00,,0,I
+1152,2014-06-11 00:00:00,scheduled fu (opd),,IIb
+1154,2010-04-06 00:00:00,scheduled fu (opd),,I
+1155,2014-04-16 00:00:00,scheduled fu (opd),0,I
+1156,2014-02-19 00:00:00,scheduled fu (opd),,I
+1157,2011-01-18 00:00:00,scheduled fu (opd),,IIb
+1158,2014-06-17 00:00:00,scheduled fu (opd),0,I
+1159,2010-12-01 00:00:00,scheduled fu (opd),,
+1160,2012-10-24 00:00:00,scheduled fu (opd),3,I
+1161,2014-07-24 00:00:00,admission (NR),,IIIa
+1163,2013-12-03 00:00:00,scheduled fu (opd),,I
+1164,2014-07-01 00:00:00,scheduled fu (opd),0,I
+1167,2014-09-22 00:00:00,scheduled fu (opd),,IIb
+1168,2014-05-28 00:00:00,scheduled fu (opd),0,I
+1169,2014-09-30 00:00:00,scheduled fu (opd),0,I
+1170,2014-08-18 00:00:00,scheduled fu (opd),0,I
+1172,2014-08-25 00:00:00,scheduled fu (opd),,I
+1173,2014-08-05 00:00:00,scheduled fu (opd),,I
+1176,2011-07-07 00:00:00,scheduled fu (opd),4,I
+1177,2013-07-29 00:00:00,scheduled fu (opd),0,I
+1178,2014-09-30 00:00:00,scheduled fu (opd),,I
+1179,2013-01-23 00:00:00,scheduled fu (opd),0,I
+1031,2014-03-25 00:00:00,scheduled fu (opd),3,I
+1165,2011-03-15 00:00:00,scheduled_fu,,I
+1029,2010-07-09 00:00:00,scheduled_fu,,I
+1140,2011-09-21 00:00:00,scheduled_fu,,I
+1024,2014-03-25 00:00:00,scheduled_fu,4,I
+1033,2010-08-03 00:00:00,scheduled_fu,0,I
+1030,2010-09-02 00:00:00,scheduled_fu,0,I
+1047,2013-10-31 00:00:00,scheduled_fu,,IIIb
+1039,2011-02-24 00:00:00,scheduled_fu,0,MM
+1137,0202-06-04 15:00:00,scheduled fu (opd),0,I
+1180,2014-09-03 00:00:00,scheduled fu (opd),0,I
+1181,2014-10-02 00:00:00,scheduled fu (opd),,
+1182,2012-02-29 00:00:00,scheduled fu (opd),,I
+1183,2014-08-25 00:00:00,scheduled fu (opd),,I
+1184,2014-09-03 00:00:00,scheduled fu (opd),0,I
+1185,2014-05-14 00:00:00,scheduled fu (opd),,I
+1139,2010-02-04 00:00:00,scheduled fu (opd),,IIa
+1186,2012-06-26 00:00:00,scheduled fu (opd),,IVb
+1187,2014-06-25 00:00:00,scheduled fu (opd),0,I
+1188,2012-02-22 00:00:00,scheduled fu (opd),,I
+1189,2014-06-30 00:00:00,scheduled fu (opd),0,I
+1190,2012-10-10 00:00:00,scheduled fu (opd),,I
+1191,2012-04-05 00:00:00,admission (NR),4,I
+1192,2012-09-24 00:00:00,scheduled fu (opd),,I
+1193,2014-08-20 00:00:00,scheduled fu (opd),0,I
+1194,2014-07-21 00:00:00,scheduled fu (opd),,I
+1195,2014-08-14 00:00:00,ER,,IIIb
+1196,2014-04-21 00:00:00,scheduled fu (opd),,IIa
+1197,2013-05-28 00:00:00,,,IIa
+1198,2014-01-15 00:00:00,scheduled fu (opd),,I
+1200,2014-09-04 00:00:00,,,I
+1201,2014-09-25 00:00:00,scheduled fu (opd),,I
+1202,2014-09-03 00:00:00,scheduled fu (opd),0,I
+1203,2014-09-01 00:00:00,scheduled fu (opd),0,I
+1204,2014-09-15 00:00:00,scheduled fu (opd),,IIa
+1206,2014-07-21 00:00:00,scheduled fu (opd),0,I
+1207,2014-06-11 00:00:00,scheduled fu (opd),,I
+1208,2013-04-02 00:00:00,scheduled fu (opd),,I
+1209,2014-09-22 00:00:00,scheduled fu (opd),,I
+1210,2014-05-14 00:00:00,scheduled fu (opd),0,I
+1211,2014-09-25 00:00:00,scheduled fu (opd),0,I
+1212,2013-07-17 00:00:00,scheduled fu (opd),0,I
+1213,2014-09-01 00:00:00,scheduled fu (opd),0,I
+1040,2011-03-10 00:00:00,scheduled fu (opd),,I
+1052,2014-03-18 00:00:00,scheduled fu (opd),,IIIb
+1053,2013-12-03 00:00:00,scheduled fu (opd),,I
+1054,2014-04-08 00:00:00,scheduled fu (opd),0,
+1055,2014-03-25 00:00:00,scheduled fu (opd),,
+1056,2014-03-18 00:00:00,scheduled fu (opd),0,I
+1057,2013-02-13 00:00:00,scheduled fu (opd),0,
+1058,2014-02-25 00:00:00,scheduled fu (opd),0,
+1059,2014-04-10 00:00:00,scheduled fu (opd),0,
+1061,2014-04-08 00:00:00,scheduled fu (opd),,I
+1062,2014-04-08 00:00:00,scheduled fu (opd),0,
+1064,2014-01-21 00:00:00,scheduled fu (opd),0,
+1065,2014-01-16 00:00:00,scheduled fu (opd),,I
+1066,2014-03-20 00:00:00,scheduled fu (opd),,IIa
+1067,2014-04-08 00:00:00,scheduled fu (opd),0,
+1068,2014-04-21 00:00:00,scheduled fu (opd),,IIb
+1069,2006-05-10 00:00:00,scheduled fu (opd),0,IIa
+1071,2006-12-20 00:00:00,admission (NR),,V
+1072,2014-02-03 00:00:00,scheduled fu (opd),0,I
+1073,2006-05-29 00:00:00,scheduled fu (opd),0,I
+1074,2009-07-31 00:00:00,scheduled fu (opd),0,I
+1075,2007-08-27 00:00:00,scheduled fu (opd),,I
+1076,2014-05-19 00:00:00,scheduled fu (opd),,I
+1077,2014-01-22 00:00:00,scheduled fu (opd),0,I
+1078,2014-06-16 00:00:00,scheduled fu (opd),,I
+1217,2014-07-21 00:00:00,scheduled fu (opd),0,I
+1218,2014-08-04 00:00:00,scheduled fu (opd),0,I
+1220,2014-08-07 00:00:00,scheduled fu (opd),0,I
+1221,2014-05-13 00:00:00,scheduled fu (opd),0,I
+1222,2014-07-29 00:00:00,scheduled fu (opd),0,I
+1223,2013-03-18 00:00:00,scheduled fu (opd),0,I
+1224,2014-09-15 00:00:00,scheduled fu (opd),0,I
+1225,2013-11-25 00:00:00,scheduled fu (opd),,I
+1226,2013-03-31 00:00:00,admission (NR),,I
+1227,2014-08-13 00:00:00,scheduled fu (opd),,I
+1228,2014-01-03 00:00:00,scheduled fu (opd),4,I
+1229,2014-06-30 00:00:00,scheduled fu (opd),,I
+1231,2014-10-01 00:00:00,scheduled fu (opd),,I
+1232,2014-07-17 00:00:00,scheduled fu (opd),,I
+1233,2014-05-12 00:00:00,scheduled fu (opd),,I
+1234,2013-07-10 00:00:00,admission (NR),,I
+1235,2014-09-25 00:00:00,scheduled fu (opd),0,I
+1236,2014-08-07 00:00:00,scheduled fu (opd),,I
+1237,2014-07-30 00:00:00,scheduled fu (opd),0,I
+1238,2013-11-14 00:00:00,scheduled fu (opd),0,I
+1240,2014-04-09 00:00:00,scheduled fu (opd),,I
+1242,2014-04-16 00:00:00,scheduled fu (opd),,I
+1243,2014-08-27 00:00:00,scheduled fu (opd),,I
+1244,2014-03-24 00:00:00,scheduled fu (opd),,
+1245,2014-08-29 00:00:00,scheduled fu (opd),0,I
+1246,2014-09-18 00:00:00,scheduled fu (opd),0,I
+1045,2014-04-01 00:00:00,scheduled fu (opd),0,I
+1079,2006-09-07 00:00:00,scheduled fu (opd),,I
+1080,2006-09-27 00:00:00,scheduled fu (opd),0,I
+1081,2006-12-06 00:00:00,scheduled fu (opd),,IIa
+1082,2006-10-10 00:00:00,admission (NR),3,I
+1083,2008-10-02 00:00:00,scheduled fu (opd),0,I
+1084,2006-12-04 00:00:00,scheduled fu (opd),,I
+1085,2014-04-22 00:00:00,scheduled fu (opd),0,I
+1086,2007-02-22 00:00:00,scheduled fu (opd),,I
+1087,2014-05-20 00:00:00,scheduled fu (opd),0,I
+1088,2014-06-25 00:00:00,scheduled fu (opd),,IIb
+1089,2014-06-12 00:00:00,scheduled fu (opd),,IIIa
+1090,2007-02-23 00:00:00,scheduled fu (opd),,I
+1091,2011-04-14 00:00:00,scheduled fu (opd),3,I
+1092,2009-11-16 00:00:00,scheduled fu (opd),,I
+1093,2014-06-09 00:00:00,scheduled fu (opd),,I
+1094,2014-03-26 00:00:00,scheduled fu (opd),0,I
+1095,2009-02-03 00:00:00,scheduled fu (opd),0,I
+1096,2011-08-01 00:00:00,scheduled fu (opd),,IIa
+1097,2009-05-28 00:00:00,scheduled fu (opd),,I
+1098,2014-01-23 00:00:00,scheduled fu (opd),0,IIa
+1099,2013-05-08 00:00:00,scheduled fu (opd),,I
+1100,2008-01-22 00:00:00,scheduled fu (opd),0,IIb
+1101,2014-04-22 00:00:00,scheduled fu (opd),0,IIa
+1102,2008-01-14 00:00:00,scheduled fu (opd),,IIa
+1103,2014-06-10 00:00:00,scheduled fu (opd),,I
+1104,2008-02-11 00:00:00,scheduled fu (opd),,IIb
+1174,2014-09-02 00:00:00,scheduled fu (opd),,I
+1214,2014-08-29 00:00:00,scheduled fu (opd),,I
+1215,2014-09-22 00:00:00,scheduled fu (opd),0,I
+1216,2013-03-13 00:00:00,scheduled fu (opd),,I
+1248,2014-04-23 00:00:00,scheduled fu (opd),,IIa
+1251,2014-06-12 00:00:00,admission (NR),,IIa
+1205,2013-09-23 00:00:00,scheduled fu (opd),,IIIa
+1063,2014-02-18 00:00:00,scheduled fu (opd),,
+1105,2014-03-18 00:00:00,scheduled fu (opd),0,IIa
+1106,2012-10-11 00:00:00,scheduled fu (opd),0,I
+1107,2008-06-03 00:00:00,only caregiver (opd),,V
+1108,2014-04-07 00:00:00,scheduled fu (opd),0,I
+1109,2013-05-08 00:00:00,scheduled fu (opd),,I
+1110,2009-10-23 00:00:00,scheduled fu (opd),,
+1111,2009-01-29 00:00:00,scheduled fu (opd),,IIa
+1112,2014-04-14 00:00:00,scheduled fu (opd),,IIIb
+1113,2014-01-09 00:00:00,scheduled fu (opd),,I
+1114,2014-05-21 00:00:00,scheduled fu (opd),,
+1115,2011-06-07 00:00:00,scheduled fu (opd),,I
+1116,2009-01-29 00:00:00,scheduled fu (opd),,I
+1117,2014-04-23 00:00:00,scheduled fu (opd),0,I
+1118,2014-04-10 00:00:00,scheduled fu (opd),0,IIa
+1119,2013-09-16 00:00:00,scheduled fu (opd),3,I
+1120,2014-01-03 00:00:00,scheduled fu (opd),,I
+1121,2009-01-12 00:00:00,scheduled fu (opd),,IIIb
+1122,2009-09-09 00:00:00,only caregiver (opd),,V
+1123,2009-01-09 00:00:00,scheduled fu (opd),4,I
+1124,2009-01-21 00:00:00,scheduled fu (opd),,I
+1125,2014-05-26 00:00:00,scheduled fu (opd),,IIIb
+1241,2014-08-25 00:00:00,scheduled fu (opd),0,I
+2003,2014-04-30 00:00:00,scheduled fu (opd),2,I
+2005,2014-04-30 00:00:00,scheduled fu (opd),2,IIa
+2007,2014-05-08 00:00:00,scheduled fu (opd),8,IIa
+2008,2014-05-08 00:00:00,scheduled fu (opd),0,IIb
+2009,2014-05-08 00:00:00,scheduled fu (opd),9,IIa
+2010,2014-05-14 00:00:00,scheduled fu (opd),0,IIa
+2011,2014-05-15 00:00:00,scheduled fu (opd),0,I
+2012,2014-05-15 00:00:00,scheduled fu (opd),0,I
+2013,2014-05-21 00:00:00,scheduled fu (opd),4,IIb
+2014,2014-05-21 00:00:00,scheduled fu (opd),0,IIb
+2015,2014-05-21 00:00:00,scheduled fu (opd),4,IIb
+2016,2014-05-21 00:00:00,scheduled fu (opd),1,I
+2004,2014-05-20 00:00:00,scheduled fu (opd),7,IIb
+2006,2014-05-07 00:00:00,scheduled fu (opd),2,IIb
+2017,2014-05-28 00:00:00,scheduled fu (opd),0,I
+2018,2014-05-28 00:00:00,scheduled fu (opd),4,I
+2002,2014-04-23 00:00:00,scheduled fu (opd),0,IIa
+3024,2014-01-15 00:00:00,scheduled fu (opd),,IIb
+3025,2013-11-25 00:00:00,scheduled fu (opd),9,IIa
+3026,2014-01-27 00:00:00,scheduled fu (opd),,IIb
+3027,2014-01-22 00:00:00,scheduled fu (opd),0,I
+3028,2014-01-13 00:00:00,scheduled fu (opd),,IIb
+3029,2014-01-22 00:00:00,scheduled fu (opd),0,IIb
+3030,2013-04-17 00:00:00,scheduled fu (opd),0,I
+3031,2013-12-31 00:00:00,scheduled fu (opd),0,IIa
+3032,2013-10-28 00:00:00,scheduled fu (opd),0,IIa
+3033,2014-02-03 00:00:00,scheduled fu (opd),4,IIb
+3034,2013-11-20 00:00:00,scheduled fu (opd),,I
+3035,2014-02-03 00:00:00,scheduled fu (opd),2,IIb
+3037,2014-01-20 00:00:00,scheduled fu (opd),0,IIa
+3039,2013-10-14 00:00:00,scheduled fu (opd),0,IIa
+3040,2014-01-15 00:00:00,scheduled fu (opd),2,I
+3042,2014-02-10 00:00:00,scheduled fu (opd),1,IIb
+3043,2014-03-14 00:00:00,scheduled fu (opd),0,IIb
+3023,2014-07-23 00:00:00,scheduled fu (opd),6,IIb
+3047,2014-08-04 00:00:00,scheduled fu (opd),11,IIb
+3051,2014-08-13 00:00:00,scheduled fu (opd),3,I
+3049,2014-08-06 00:00:00,scheduled fu (opd),1,IIa
+3050,2014-07-21 00:00:00,scheduled fu (opd),3,I
+3028,2014-07-23 00:00:00,scheduled fu (opd),0,IIIb
+3023,2014-08-11 00:00:00,admission (NR),8,
+3048,2014-08-20 00:00:00,scheduled fu (opd),0,I
+3055,2014-09-16 00:00:00,scheduled fu (opd),4,IIa
+3033,2014-02-17 00:00:00,scheduled fu (opd),4,IIb
+3033,2014-03-03 00:00:00,scheduled fu (opd),4,IIb
+3033,2014-04-28 00:00:00,scheduled fu (opd),4,IIb
+3033,2014-05-26 00:00:00,scheduled fu (opd),4,IIb
+3033,2014-06-23 00:00:00,scheduled fu (opd),4,IIb
+3033,2014-08-04 00:00:00,scheduled fu (opd),4,IIb
+3033,2014-09-15 00:00:00,scheduled fu (opd),4,IIb
+3042,2014-05-13 00:00:00,scheduled fu (opd),1,IIb
+3042,2014-09-15 00:00:00,scheduled fu (opd),0,IIb
+3047,2013-09-15 00:00:00,scheduled fu (opd),6,IIb
+3041,2014-04-09 00:00:00,scheduled fu (opd),0,IIb
+3041,2014-06-11 00:00:00,scheduled fu (opd),0,IIb
+3041,2014-08-20 00:00:00,scheduled fu (opd),0,IIb
+3041,2014-09-15 00:00:00,scheduled fu (opd),5,IIa
+3056,2014-09-15 00:00:00,scheduled fu (opd),1,I
+3057,2014-08-06 00:00:00,scheduled fu (opd),0,
+3058,2014-09-17 00:00:00,scheduled fu (opd),0,IIb
+3059,2014-09-17 00:00:00,scheduled fu (opd),0,IIb
+3060,2014-09-17 00:00:00,scheduled fu (opd),,
+3061,2014-09-24 00:00:00,scheduled fu (opd),0,I
+3062,2014-08-27 00:00:00,scheduled fu (opd),0,
+3063,2014-08-06 00:00:00,scheduled fu (opd),,IIIb
+3064,2014-06-25 00:00:00,scheduled fu (opd),0,IIb
+3066,2014-08-26 00:00:00,scheduled fu (opd),0,I
+3042,2014-08-12 00:00:00,scheduled fu (opd),1,IIb
+3041,2014-02-12 00:00:00,scheduled fu (opd),0,IIb
+3044,2014-02-26 00:00:00,scheduled fu (opd),0,IIb
+1066,2014-06-04 15:00:00,scheduled_fu,,I
+1065,2015-02-02 15:00:00,scheduled_fu,,I
+1064,2015-03-30 15:00:00,scheduled_fu,,I
+1028,2016-01-18 15:00:00,scheduled_fu,,I
+1032,2014-05-21 15:00:00,scheduled_fu,,I
+1049,2015-10-28 15:00:00,scheduled_fu,,
+1063,2014-12-16 15:00:00,scheduled_fu,,
+1063,2015-12-28 15:00:00,scheduled_fu,,IIb
+1061,2016-03-21 15:00:00,scheduled_fu,,I
+1062,2016-02-03 15:00:00,scheduled_fu,,I
+1052,2016-04-06 15:00:00,admission,,IVb
+1203,2016-07-04 15:00:00,scheduled_fu,,
+1045,2016-03-14 15:00:00,scheduled_fu,,I
+1045,2016-04-11 15:00:00,scheduled_fu,,I
+1044,2011-04-06 00:00:00,admission,3,I
+1027,2016-02-01 15:00:00,scheduled_fu,,
+1031,2016-01-04 15:00:00,scheduled_fu,,
+109,2014-06-10 00:00:00,entry,,IIb
+109,2014-06-20 00:00:00,scheduled_fu,,IIa
+1067,2015-11-12 15:00:00,scheduled_fu,,
+1037,2016-02-15 15:00:00,scheduled_fu,,I
+1034,2016-03-09 15:00:00,scheduled_fu,,
+1245,2016-01-12 15:00:00,scheduled_fu,,I
+1184,2016-07-10 15:00:00,scheduled_fu,,IIb
+1180,2016-05-31 15:00:00,scheduled_fu,,IIa
+1098,2016-05-09 15:00:00,scheduled_fu,,
+1207,2016-03-15 15:00:00,scheduled_fu,,I
+1158,2016-04-11 15:00:00,scheduled_fu,,I
+1173,2016-07-11 15:00:00,scheduled_fu,,I
+1231,2016-06-27 15:00:00,scheduled_fu,,I
+1099,2015-12-03 15:00:00,scheduled_fu,,
+1193,2016-01-19 15:00:00,scheduled_fu,,I
+1202,2016-04-05 15:00:00,scheduled_fu,,
+1112,2016-03-06 15:00:00,scheduled_fu,,
+1164,2016-06-09 15:00:00,scheduled_fu,,
+1211,2016-05-10 15:00:00,scheduled_fu,,I
+1103,2016-05-16 15:00:00,scheduled_fu,,I
+1221,2016-05-30 15:00:00,scheduled_fu,,I
+1113,2016-03-01 15:00:00,scheduled_fu,,I
+1077,2016-06-21 15:00:00,scheduled_fu,,
+1135,2015-06-21 15:00:00,scheduled_fu,,
+1072,2016-03-01 15:00:00,scheduled_fu,,
+1218,2016-04-11 15:00:00,scheduled_fu,,
+1201,2016-05-24 15:00:00,scheduled_fu,,I
+1141,2016-07-05 15:00:00,scheduled_fu,,I
+1226,2016-02-02 15:00:00,scheduled_fu,,
+1235,2016-03-14 15:00:00,scheduled_fu,,I
+1130,2015-10-28 15:00:00,scheduled_fu,,I
+1138,2016-04-04 15:00:00,scheduled_fu,,I
+1227,2016-02-15 15:00:00,scheduled_fu,,I
+1194,2015-12-09 15:00:00,scheduled_fu,,I
+1204,2016-06-22 15:00:00,scheduled_fu,,
+1191,2012-05-01 15:00:00,scheduled_fu,,I
+1240,2016-04-26 15:00:00,scheduled_fu,,I
+1132,2016-04-10 15:00:00,scheduled_fu,,
+1108,2016-06-14 15:00:00,scheduled_fu,,
+1214,2016-02-02 15:00:00,scheduled_fu,,I
+1206,2015-12-27 15:00:00,scheduled_fu,,
+1232,2016-03-29 15:00:00,scheduled_fu,,I
+1229,2015-10-04 15:00:00,scheduled_fu,,I
+1114,2014-10-05 15:00:00,scheduled_fu,,
+1174,2016-05-23 15:00:00,scheduled_fu,,IIa
+1169,2016-05-19 15:00:00,scheduled_fu,,I
+1217,2016-05-23 15:00:00,scheduled_fu,,I
+1200,2016-05-31 15:00:00,scheduled_fu,,I
+1094,2016-07-12 15:00:00,scheduled_fu,,
+1144,2016-03-14 15:00:00,scheduled_fu,,I
+1176,2015-03-03 15:00:00,scheduled_fu,,I
+1085,2016-04-25 15:00:00,scheduled_fu,,I
+1126,2016-06-26 15:00:00,scheduled_fu,,I
+1133,2016-01-31 15:00:00,scheduled_fu,,I
+1170,2016-05-24 15:00:00,scheduled_fu,,I
+1163,2015-05-19 15:00:00,scheduled_fu,,I
+1087,2016-04-11 15:00:00,scheduled_fu,,
+1093,2016-05-22 15:00:00,scheduled_fu,,I
+1183,2016-06-14 15:00:00,,,
+113,2016-08-02 00:00:00,scheduled_fu,,IIIa
+1028,2016-07-13 15:00:00,scheduled_fu,,PR
+114,2016-06-16 00:00:00,scheduled_fu,,IIb
+1024,2015-01-12 15:00:00,scheduled_fu,,I
+1025,2015-02-02 15:00:00,scheduled_fu,,PR
+1026,2014-03-17 15:00:00,scheduled_fu,,I
+1027,2016-09-19 15:00:00,scheduled_fu,,PR
+1031,2016-08-08 15:00:00,scheduled_fu,,I
+1032,2016-06-08 15:00:00,scheduled_fu,,CSR
+1034,2016-08-10 15:00:00,scheduled_fu,,PR
+1036,2012-02-28 00:00:00,scheduled_fu,0,CSR
+1037,2016-04-20 15:00:00,scheduled_fu,,I
+1040,2011-03-23 15:00:00,early visit,,I
+1044,2011-04-12 15:00:00,scheduled_fu,,I
+1045,2016-08-08 15:00:00,scheduled_fu,,I
+1048,2016-07-06 15:00:00,scheduled_fu,,MM
+1049,2016-03-02 15:00:00,scheduled_fu,,CSR
+1050,2015-04-06 15:00:00,scheduled_fu,,CSR
+1051,2016-09-11 15:00:00,scheduled_fu,,IIa
+1052,2016-09-01 15:00:00,scheduled_fu,,V
+1053,2016-08-29 15:00:00,scheduled_fu,,CSR
+1054,2016-08-17 15:00:00,scheduled_fu,,CSR
+1055,2016-07-27 15:00:00,scheduled_fu,,CSR
+1056,2014-10-15 15:00:00,scheduled_fu,,MM
+1057,2014-11-03 15:00:00,scheduled_fu,,CSR
+1058,2016-09-19 15:00:00,scheduled_fu,,CSR
+1059,2016-09-19 15:00:00,scheduled_fu,,PR
+1060,2013-08-27 00:00:00,scheduled fu (opd),,IIa
+1061,2016-08-23 15:00:00,scheduled_fu,,I
+1062,2016-07-27 15:00:00,scheduled_fu,,PR
+1063,2016-09-21 15:00:00,scheduled_fu,,IIb
+1064,2015-05-18 15:00:00,scheduled_fu,,MM
+1065,2016-09-21 15:00:00,scheduled_fu,,MM
+1066,2016-08-24 15:00:00,scheduled_fu,,MM
+1067,2016-05-12 15:00:00,scheduled_fu,,CSR
+1068,2016-09-21 15:00:00,scheduled_fu,,PR
+1250,2014-06-26 00:00:00,scheduled fu (opd),,I
+1070,,,,
+3045,,,,
+3065,,,,
+3046,,,,
+111,,,,
